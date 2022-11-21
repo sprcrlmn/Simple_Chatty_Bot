@@ -1,0 +1,38 @@
+[1;31m
+Start test 1[0m
+Hello! My name is fBot.
+I was created in 2022.
+Please, remind me your name.
+> Marry
+#What a great name you have, Marry!
+Let me guess your age.
+5Enter remainders of dividing your age by 3, 5 and 7.
+> 1
+> 0
+> 5
+9Your age is 40; that's a good time to start programming!
+ANow I will prove to you that I can count to any number you want.
+> 10
+0!
+1!
+2!
+3!
+4!
+5!
+6!
+7!
+8!
+9!
+10!
+5Object-oriented programming stands on 4 principles. 
+‡ Find the one which is explained incorrectly?1. Abstraction is about giving only the most relevant features of the object to the user.
+
+I2. Inheritance is about naming the variables in the one traditional way.
+
+N3. Encapsulation is about hiding the internal data of objects from the world.
+
+F4. Polymorphism is about defining different logic of the same method.
+> 1
+Please, try again.
+> 2
+"Congratulations, have a nice day!

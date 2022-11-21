@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2219#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:8: error: variable n is already defined in method main(String[])
+            int n = scanner.nextInt();
+                ^
+    1 error
+  time: "Tue, 15 Nov 2022 16:11:04 UTC"
+record: -1
